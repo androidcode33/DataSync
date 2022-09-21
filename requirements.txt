@@ -17,7 +17,7 @@ googleapis-common-protos==1.6.0
 grpcio==1.25.0
 httplib2==0.14.0
 idna==2.8
-jwcrypto==0.6.0
+jwcrypto==1.4
 msgpack==0.6.2
 Naked==0.1.31
 numpy==1.17.4
